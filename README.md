@@ -1,2 +1,2 @@
-# trishcaburian.github.io
-recent resume?
+# Hi!
+https://trishcaburian.github.io/index.html for the resume
