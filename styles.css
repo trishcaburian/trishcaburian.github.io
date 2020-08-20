@@ -107,4 +107,6 @@ ul {
 
 .level_name {
     margin-top: 10px;
+    text-align: right;
+    width: 150px;
 }
