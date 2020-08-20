@@ -74,3 +74,37 @@ ul {
 .generic {
     padding-left: 205px;
 }
+
+
+.under {
+    position: absolute;
+    height: 10px;
+    width: 150px;
+    background-color: lightgray;
+}
+
+.progress {
+    position: absolute;
+    background-color: #54727a;
+    height: 10px;
+}
+
+.full_bar {
+    width: 150px;
+}
+
+.vg_bar {
+    width: 110px;
+}
+
+.g_bar {
+    width: 90px;
+}
+
+.av_bar {
+    width: 60px;
+}
+
+.level_name {
+    margin-top: 10px;
+}
